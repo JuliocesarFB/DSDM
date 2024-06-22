@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536348690770",
+    "project_id": "myalbum-7e2b1",
+    "storage_bucket": "myalbum-7e2b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536348690770:android:007d0d3aa62b72d7c3528b",
+        "android_client_info": {
+          "package_name": "br.com.unisep.myalbum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536348690770-1dicrvp1f33d94qd8ovbth1shm85bibv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZTP5Z5oPfR4SSQCY1Qu4zf3ERlRKskRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536348690770-1dicrvp1f33d94qd8ovbth1shm85bibv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
