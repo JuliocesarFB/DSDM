@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Excuser</string>
+    <string name="select">Selecione uma categoria:</string>
+    
+    <string name="random">Aleátorio</string>
+    <string name="family">Família</string>
+    <string name="office">Trabalho</string>
+    <string name="children">Crianças</string>
+    <string name="college">Escola</string>
+    <string name="party">Festa</string>
+
+    <string name="defaultErrorMessage">Não foi possível carregar os dados!</string>
+</resources>
